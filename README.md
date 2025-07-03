@@ -22,7 +22,7 @@ A Python tool that automatically scrapes newly registered domains from WHOIS DS 
 1. Clone this repository:
 ```bash
 git clone https://github.com/the4rchangel/new-domains
-cd domains
+cd new-domains
 ```
 
 2. Install required dependencies:
